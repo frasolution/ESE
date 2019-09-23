@@ -13,22 +13,41 @@
 
 ## DAYS
 1. Day One
-* Wilkommens VERANSTALTUNG
-* Sonder Veranstaltung
+* Erste Veranstaltung
+* Hinweise sonder veranstaltungen
+* Tutoren Part
 2. DAY TWO
+* fruestueck
+* part one
+* kampus tour
+* part two
 3. DAY THREE
+* part one
+* info markt
+* rueckfragen
 
 ## DAY ONE
-### Wilkommens VERANSTALTUNG
+### Erste Veranstaltung
+- Wilkommens VERANSTALTUNG
 - Tutoren koennen Asta Teil skippen 
-### SONDER VERANSTALTUNGEN
+### HINWEISE SONDER VERANSTALTUNGEN
 - Auslaendische Studienberatung
 - Beruflich Qualifizierte
 ### HINWEIS AUF KEINE WARTESEMESTER
 
+
 ## DAY TWO
+### Fruestueck
 - Fruestueck auf der Kippe
+- connections mit prof herstellen wenn sinn ergibt
+### part one (in fruestueck integrierbar?)
+- umgebung um die uni
+- oeffentliche verkersmittel
+### kampus tour
+
 
 ## DAY THREE
 - Infomarkt slot ist nicht auf die Minute Genau
 - Evaluation lieber frueher als nicht spaeter
+- evaluation
+- wsl/office

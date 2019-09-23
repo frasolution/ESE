@@ -8,4 +8,4 @@ Wichtige resoucen fuer alle Tutoren oder Erstsemester Studenten
 - [Steps](steps.md)
 - [fachschaft](fachschaft.md)
 - [stundeplan](sway.md)
-- [verlauf](verlauf.md)
+- [verlauf](ablauf.md)
