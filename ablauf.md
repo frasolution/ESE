@@ -24,19 +24,47 @@
 3. DAY THREE
 * part one
 * info markt
-* rueckfragen
+* rueckfragen    
 
 ## DAY ONE
 ### Erste Veranstaltung
 - Wilkommens VERANSTALTUNG
-- Tutoren koennen Asta Teil skippen 
+- Tutoren koennen Asta Teil skippen    
 
 ### HINWEISE SONDER VERANSTALTUNGEN
 - Auslaendische Studienberatung
-- Beruflich Qualifizierte
+- Beruflich Qualifizierte    
 
-### HINWEIS AUF KEINE WARTESEMESTER
+### HINWEIS AUF KEINE WARTESEMESTER   
 
+### EMPFANGEN NACH VERANSTALTUNG
+- wo kann man was zu essen finden
+- um 14 uhr wieder da sein     
+
+### PO Nachbesprechen
+- Fragen
+* weiss jemand noch was von dem Vortrag
+- Sagen wo alle gueltigen infos stehen
+- hinweisen auf aenderungen wegen bekannten mit "alter PO"    
+
+### kennen lern runde
+- Ideen
+* Name
+* Schule
+* musik
+* warum info    
+
+### Was erwatet ihr von der ESE
+- Auf papier
+- Gruppen arbeit (maybe)
+- Vorstellung oder abgabe    
+
+### kennen lern spiel (Dreiecks spiel)
+- findet gemeinsammkeiten  
+
+### HIS    
+
+### HINWEIS AUF KEINE WARTESEMESTER      
 
 ## DAY TWO
 ### Fruestueck
@@ -50,12 +78,25 @@
 ### kampus tour
 - bib
 - fsz
-- studienbuero
-- 
+- studienbuero    
 
+### Stundenplan
+- sway    
+- aktuelles Beispiel
+- fragen 
+- schreibe seien stundenplan auf?
+* vorstellen     
+
+### Kennenlern Spiel
+- idk man    
+
+### Moodle wie gehts
+- moodle demonstration
+- nicht jeder Prof hat nen Moodle    
 
 ## DAY THREE
 - Infomarkt slot ist nicht auf die Minute Genau
 - Evaluation lieber frueher als nicht spaeter
 - evaluation
 - wsl/office
+- mail am handy
