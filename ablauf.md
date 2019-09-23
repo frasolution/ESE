@@ -30,9 +30,11 @@
 ### Erste Veranstaltung
 - Wilkommens VERANSTALTUNG
 - Tutoren koennen Asta Teil skippen 
+
 ### HINWEISE SONDER VERANSTALTUNGEN
 - Auslaendische Studienberatung
 - Beruflich Qualifizierte
+
 ### HINWEIS AUF KEINE WARTESEMESTER
 
 
@@ -40,10 +42,17 @@
 ### Fruestueck
 - Fruestueck auf der Kippe
 - connections mit prof herstellen wenn sinn ergibt
+
+
 ### part one (in fruestueck integrierbar?)
 - umgebung um die uni
 - oeffentliche verkersmittel
+
 ### kampus tour
+- bib
+- fsz
+- studienbuero
+- 
 
 
 ## DAY THREE
