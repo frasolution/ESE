@@ -41,12 +41,11 @@
 ## DAY TWO
 ### Fruestueck
 - Fruestueck auf der Kippe
-- connections mit prof herstellen wenn sinn ergibt
-
+- connections mit prof herstellen wenn sinn ergibt   
 
 ### part one (in fruestueck integrierbar?)
 - umgebung um die uni
-- oeffentliche verkersmittel
+- oeffentliche verkersmittel    
 
 ### kampus tour
 - bib
