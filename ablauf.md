@@ -76,9 +76,10 @@
 - oeffentliche verkersmittel    
 
 ### kampus tour
+- (11 am  / 12 am / 2pm )
 - bib
 - fsz
-- studienbuero    
+- studienbuero  
 
 ### Stundenplan
 - sway    
@@ -87,16 +88,23 @@
 - schreibe seien stundenplan auf?
 * vorstellen     
 
-### Kennenlern Spiel
-- idk man    
+### Intermission
+- Schnell frage runde wo ist was auf dem Campus
+![CAMPUSPLAN](https://i.imgur.com/xlNc8te.png)
 
 ### Moodle wie gehts
 - moodle demonstration
 - nicht jeder Prof hat nen Moodle    
 
 ## DAY THREE
+- Moodle Rueckfragen
+- Stundenplan ruckfragen
 - Infomarkt slot ist nicht auf die Minute Genau
-- Evaluation lieber frueher als nicht spaeter
+- Evaluation lieber frueher als spaeter
 - evaluation
 - wsl/office
+- github pro (fuer studenten)
+- autodesk programme ()
 - mail am handy
+- linux einrichtungs kurse evtl?
+* chermin anschreiben

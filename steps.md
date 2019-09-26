@@ -2,10 +2,9 @@
 
 - fos schueler / beruf
 * mathe grundlagen
-
 - mathe helpdesk im slz
 
-# eine anlaufstelle im netzt
+# eine anlaufstelle
 - wie lernen ich
 - fachliche probleme
 
