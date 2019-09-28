@@ -37,49 +37,22 @@
 
 ### HINWEIS AUF KEINE WARTESEMESTER   
 
-### EMPFANGEN NACH VERANSTALTUNG
+### EMPFANGEN NACH VERANSTALTUNG  
 - wo kann man was zu essen finden
 - um 14 uhr wieder da sein     
 
-### PO Nachbesprechen
+### HINWEIS AUF KEINE WARTESEMESTER 
+
+### kennen lern runde  
+- Name
+ 
+### PO Nachbesprechen  
 - Fragen
 * weiss jemand noch was von dem Vortrag
 - Sagen wo alle gueltigen infos stehen
 - hinweisen auf aenderungen wegen bekannten mit "alter PO"    
-
-### kennen lern runde
-- Ideen
-* Name
-* Schule
-* musik
-* warum info    
-
-### Was erwatet ihr von der ESE
-- Auf papier
-- Gruppen arbeit (maybe)
-- Vorstellung oder abgabe    
-
-### kennen lern spiel (Dreiecks spiel)
-- findet gemeinsammkeiten  
-
-### HIS    
-
-### HINWEIS AUF KEINE WARTESEMESTER      
-
-## DAY TWO
-### Fruestueck
-- Fruestueck auf der Kippe
-- connections mit prof herstellen wenn sinn ergibt   
-
-### part one (in fruestueck integrierbar?)
-- umgebung um die uni
-- oeffentliche verkersmittel    
-
-### kampus tour
-- (11 am  / 12 am / 2pm )
-- bib
-- fsz
-- studienbuero  
+ 
+### HIS  
 
 ### Stundenplan
 - sway    
@@ -87,6 +60,23 @@
 - fragen 
 - schreibe seien stundenplan auf?
 * vorstellen     
+
+### kennen lern spiel
+
+## DAY TWO
+### Fruestueck //Nicks PO und Stundenplan recap
+- Fruestueck (fachschaft)  
+- connections mit prof herstellen wenn sinn ergibt  
+
+### part one (in fruestueck integrierbar?)
+- umgebung um die uni  
+- oeffentliche verkersmittel  
+
+### kampus tour
+- DI (11 am  / 12 am / 2pm ) 4-8
+- bib
+- fsz
+- studienbuero  
 
 ### Intermission
 - Schnell frage runde wo ist was auf dem Campus
@@ -108,3 +98,4 @@
 - mail am handy
 - linux einrichtungs kurse evtl?
 * chermin anschreiben
+- jetbrain
