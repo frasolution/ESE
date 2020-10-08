@@ -9,3 +9,4 @@ Wichtige resoucen fuer alle Tutoren oder Erstsemester Studenten
 - [fachschaft](fachschaft.md)
 - [stundeplan](sway.md)
 - [verlauf](ablauf.md)
+- [Sport](Sport.md)
