@@ -6,7 +6,6 @@ Wichtige resoucen fuer alle Tutoren oder Erstsemester Studenten
 -   [BIB](bib.md)
 -   [Studienbuero](studienbuero.md)
 -   [Steps](steps.md)
--   [fachschaft](fachschaft.md)
 -   [stundeplan](sway.md)
 -   [verlauf](ablauf.md)
 -   [Sport](Sport.md)
